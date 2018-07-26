@@ -1,9 +1,9 @@
 Application.run = function( msg )
 {
-	this.setApplicationName( 'WeKan' );
+	this.setApplicationName( 'Wekan' );
 	
 	var v = new View( {
-		title: 'WeKan',
+		title: 'Wekan',
 		width: 900,
 		height: 780
 	} );
