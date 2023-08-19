@@ -1,6 +1,6 @@
 Application.run = function( msg )
 {
-	this.setApplicationName( 'Wekan' );
+	this.setApplicationName( 'WeKan' );
 	
 	var v = new View( {
 		title: 'Wekan',
