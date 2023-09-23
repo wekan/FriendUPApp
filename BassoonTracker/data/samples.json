@@ -1,0 +1,9 @@
+{
+  "samples":[
+    {"title":"ST-O1","url":"https://www.stef.be/bassoontracker/data/st-01.json","children":[]},
+    {"title":"ST-O2","url":"https://www.stef.be/bassoontracker/data/st-02.json","children":[]},
+    {"title":"ST-O3","url":"https://www.stef.be/bassoontracker/data/st-03.json","children":[]},
+    {"title":"ST-O4","url":"https://www.stef.be/bassoontracker/data/st-04.json","children":[]},
+    {"title":"ST-O5","url":"https://www.stef.be/bassoontracker/data/st-05.json","children":[]}
+  ]
+}
